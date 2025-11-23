@@ -42,7 +42,7 @@ one;
 }
 
 .options a {
-  display: block;       
+  display: none;       
   padding: 5px;        
   text-decoration: none;
   color: black;
